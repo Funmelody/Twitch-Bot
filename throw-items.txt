@@ -4,7 +4,7 @@ $(random.1-100) Mora
 $(random.1-100) bông hoa 🌹
 $(random.1-100) máy Playstation 5
 $(random.1-100) mảnh ghép LEGO
-$(random.1-100) bóng bay 🎈
+$(random.1-100) quả bóng bay 🎈
 $(random.1-100) chậu cây
 $(random.1-100) cây súng nước 🔫
 $(random.1-100) cái đồng hồ 🕰️
