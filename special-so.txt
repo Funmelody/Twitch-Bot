@@ -5,6 +5,7 @@
 [gentlecomet_xd] Chẳng phải đây là Lưu Vân Thỏ Ngọc Tá Phong Chân Quân sao! Luna luôn luôn lắng nghe và đôi khi thấu hiểu nên đừng bỏ lỡ cô ấy stream $(args.1) thật chill tại Twitch.tv/gentlecomet_xd nhé! 🥕
 [yayoipeony] Tiếng Anh khó sẽ có Yayoi lo! Cùng học thêm ngoại ngữ và chill với Yayoi khi cô ấy chơi $(args.1) ở kênh Titch.tv/yayoipeony nha~ BangbooBounce
 [soppone] SOPPONE is your go-to casual gamer nurse! She might get frustrated easily, but that just makes it more entertaining. Drop by to watch her play $(args.1), soak in some cozy vibes and maybe even some crochet talk at Twitch.tv/SOPPONE! TwitchConHYPE
+[kokoropie75] Một coder chuyên nghiệp giỏi hơn cả AI, không ai khác chính là Kokoropie! Thi thoảng Bánh chỉ stream vì đam mê nên đừng bỏ lỡ cơ hội ghé kênh của Bánh tại Twitch.tv/Kokoropi75 nhé!
 
 Yo everyone! $(1) is awesome and I think you'll enjoy watching them at Twitch.tv/$(1) where they were last playing $(args.1)!
 Hey everyone, $(1) seems like a super cool person! They were last playing $(args.1) over at Twitch.tv/$(1) Check it out! SeemsGood 
