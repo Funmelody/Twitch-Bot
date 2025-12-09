@@ -1,0 +1,66 @@
+$(random.1-10) kg bánh chưng
+$(random.1-30) cái bánh chưng
+$(random.1-35) cái bánh tét
+$(random.1-20) kg bánh tét
+$(random.1-30) hộp bánh su kem
+$(random.1-50) ổ bánh mì
+$(random.1-100) cái bánh donut
+$(random.1-80) cái bánh cupcake
+$(random.1-40) miếng bánh pizza
+$(random.1-30) hộp bánh quy bơ
+$(random.1-30) đĩa bánh flan
+$(random.1-50) thanh bánh gạo Hàn Quốc
+$(random.1-35) cái bánh bao
+$(random.1-20) phần bánh pancake
+$(random.1-30) gói bánh tráng trộn
+$(random.1-30) cuộn bánh kẹp
+$(random.1-15) túi bánh phồng tôm
+$(random.1-40) cái bánh tiêu
+$(random.1-18) thùng bánh quy
+$(random.1-10) cái bánh xe đạp
+$(random.1-50) cái bánh giò
+$(random.1-100) cái bánh gai
+$(random.1-55) hộp bánh cốm
+$(random.1-100) cái bánh rán
+$(random.1-60) gói bánh ít
+$(random.1-20) hộp bánh bèo
+$(random.1-500) gram bánh rán
+$(random.1-100) cái bánh căn
+$(random.1-100) cái bánh Mochi
+$(random.1-100) cái bánh Dorayaki
+$(random.1-50) gói bánh gạo
+$(random.1-100) cái bánh gạo
+$(random.1-100) cái bánh bao xá xíu
+$(random.1-20) nồi bánh bao xá xíu
+$(random.1-5) công ty sản xuất bánh kẹo
+$(random.1-30) bịch bỏng ngô
+$(random.1-25) kg bỏng ngô
+$(random.1-100) cái bánh sừng bò
+$(random.1-35) đĩa bánh Tiramisu
+$(random.1-30) hộp bánh Kokoropie... à nhầm Chocopie
+$(random.1-40) cái bánh răng
+$(random.1-50) hộp bánh trung thu
+$(random.1-15) kg bánh trung thu
+$(random.1-30) gói bánh pía
+$(random.1-10) hộp bánh nậm 
+$(random.1-35) gói bánh tráng phơi sương
+$(random.1-80) cái bánh tráng nướng
+$(random.1-55) đĩa bánh flan
+$(random.1-40) cái bánh xèo
+$(random.1-100) miếng bánh đậu xanh
+$(random.1-55) cái bánh chuối chiên
+$(random.1-20) hộp bánh bông lan trứng muối
+$(random.1-27) hộp bánh Macron
+$(random.1-70) cái bánh đúc
+$(random.1-10) nồi bánh nậm
+$(random.1-88) cái bánh nậm
+$(random.1-10) cái bánh sinh nhật
+$(random.1-50) xiên que Dango
+$(random.1-30) cái bánh đồng xu phô mai
+$(random.1-90) cái bánh cá Taiyaki
+$(random.1-100) cái bánh gấu nhân kem
+$(random.1-10) túi bánh gấu nhân kem
+$(random.1-100) cái bánh xốp
+$(random.1-12) hộp bánh xốp
+$(random.1-85) cái bánh dừa nướng
+$(random.1-35) gói bánh dừa nướng

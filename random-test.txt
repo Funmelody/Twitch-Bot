@@ -1,4 +1,0 @@
-chế tạo một khẩu pháo bắn đồ và xem món đồ nào sẽ bay được xa nhất, vô tình họ bắn trúng $(random.chatter)
-dùng những món đồ ấy để trao đổi với $(random.chatter)
-lấy chúng để ném tiếp cho $(random.chatter)
-trả hết lại cho $(sender) nhưng lại đưa nhầm cho $(random.chatter)
