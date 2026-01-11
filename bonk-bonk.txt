@@ -13,8 +13,9 @@ Cú bonk mạnh đến nỗi Rồng Ender cũng thấy nao núng!
 Bonk activated their hidden BONK RESISTANCE +10!
 Nhưng họ đã sử dụng Phản Đòn Toàn Phần và toàn bộ sát thương bị phản lại cho $(sender)! 
 Nó gây ra hiệu ứng sát thương diện rộng và cả $(random.chatter) cũng bị vạ lây!
-Bonk missed. ${sender} slipped on a banana peel.
+Bonk hụt. $(sender) đã trượt phải vỏ chuối khi cố gõ bonk bonk.
 Lực tạo ra từ cú bonk lớn đến nỗi khiến trục Trái Đất không còn bị nghiêng nữa!
 Cú bonk đã tạo ra âm thanh vang đến cả những hành tinh khác ngoài Hệ Mặt Trời!
 Cú bonk đã giúp họ khai mở được năng lực thấy cả những ký ức từ kiếp trước!
 Đòn bonk vô tình giết chết con muỗi đang chích họ!
+Lực bonk đủ lớn đến nỗi tạo thành một bản giao hưởng mà người ngoài hành tinh cũng nghe được!
