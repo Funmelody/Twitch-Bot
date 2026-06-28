@@ -12,3 +12,9 @@ $(sender) định xoa đầu $(touser) nhưng lại xoa nhầm sang $(random.cha
 $(sender) đến gần $(touser) để xoa đầu và vô tình lấy luôn cả những ký ức không vui từ họ. Giờ $(touser) trở nên yêu đời hơn bao giờ hết!
 $(sender) đã trao cho $(touser) những cú xoa đầu đầy tình cảm. Kỳ diệu thay, nó giúp họ ngủ ngon đến nỗi quên luôn deadline!
 $(sender) đã nhúng tay vào bột mỳ rồi tiến đến xoa đầu $(touser). Giờ tóc của họ còn trắng hơn cả bột mỳ! 
+$(sender) định xoa đầu $(touser)... nhưng quảng cáo xuất hiện sau 5 giây.
+$(sender) xoa đầu $(touser). Quảng cáo: "Muốn pat không giới hạn? Hãy đăng ký Premium!"
+$(sender) đã trao cho $(touser) một cái xoa đầu. Quảng cáo: "Ưu đãi xoa đầu không giới hạn đang giảm giá, nhanh tay nạp VIP ngay!"
+$(sender) gửi một cái pat qua đường truyền Internet tới $(touser)... Ping: 999ms.
+$(sender) định xoa đầu $(touser) nhưng bị họ chặn lại bằng một cái ôm thật chặt! Một màn 'phản xoa đầu' đầy bất ngờ!
+$(sender) đã xoa đầu $(touser) bằng một chiếc cọ vẽ, giờ tóc của họ trông như một bức tranh trừu tượng vậy!
