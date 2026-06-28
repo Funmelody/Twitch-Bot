@@ -1,0 +1,14 @@
+$(sender) định xoa đầu $(touser) nhưng vô tình làm rối tung cả kiểu tóc của người ta rồi! JinxLUL
+$(sender) đã gửi tặng $(touser) một cái xoa đầu đầy bao dung, như ánh nắng dịu dàng sưởi ấm tâm hồn họ.
+Một cái xoa đầu thật ấm áp từ $(sender) gửi đến $(touser). Nó ấm đến nỗi khiến băng của 2 cực Trái Đất tan chảy nhanh hơn!
+$(sender) vừa nạp lại năng lượng cho $(touser) bằng một cú xoa đầu đầy tình cảm VirtualHug
+$(sender) định xoa đầu $(touser) nhưng lại đổi ý cù lét khiến họ bất lực chịu trận trong tiếng cười không dứt! 
+$(sender) đã nhẹ nhàng xoa đầu $(touser). +100 tinh thần! ✨
+$(sender) đã tiến đến và xoa đầu $(touser). Họ đã có thêm động lực để làm những việc còn dang dở nhưng hiệu lực chỉ có 30 phút.
+$(touser) đã được xoa đầu bởi $(sender). Buff May Mắn +5%, buff Tự Tin +10%.
+$(sender) đã chạy đến xoa đầu $(touser) và rồi thì thầm với họ: "Phí xoa đầu là 100k nhé~".
+$(sender) muốn đến xoa đầu $(touser) nhưng cả hai đã lạc mất nhau trong thế giới Minecraft.
+$(sender) định xoa đầu $(touser) nhưng lại xoa nhầm sang $(random.chatter)!
+$(sender) đến gần $(touser) để xoa đầu và vô tình lấy luôn cả những ký ức không vui từ họ. Giờ $(touser) trở nên yêu đời hơn bao giờ hết!
+$(sender) đã trao cho $(touser) những cú xoa đầu đầy tình cảm. Kỳ diệu thay, nó giúp họ ngủ ngon đến nỗi quên luôn deadline!
+$(sender) đã nhúng tay vào bột mỳ rồi tiến đến xoa đầu $(touser). Giờ tóc của họ còn trắng hơn cả bột mỳ! 
